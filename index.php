@@ -8,9 +8,9 @@
         <meta charset="UTF-8" />
         
         <title>iWorkLog</title>
-        <style type="text/css" media="screen">@import "./jqtouch/themes/css/jqtouch.css";</style>
-        <script src="./jqtouch/src/lib/zepto.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="./jqtouch/src/jqtouch.min.js" type="text/javascript" charset="utf-8"></script>
+        <style type="text/css" media="screen">@import "./jQTouch/themes/css/jqtouch.css";</style>
+        <script src="./jQTouch/src/lib/zepto.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="./jQTouch/src/jqtouch.min.js" type="text/javascript" charset="utf-8"></script>
         <script type="text/javascript" charset="utf-8">
             var jQT = new $.jQTouch({
                 icon: 'images/iWorkLogtouch.png',
